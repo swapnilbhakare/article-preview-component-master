@@ -145,7 +145,7 @@ span {
     color: var(--GrayishBlue);
   }
   .text-container {
-    margin: 20px 20px;
+    margin: 20px 0px;
     position: absolute;
     width: 347px;
     top: 30%;
